@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nasroon fareeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasroon fareeha" height="30" width="40" />www.linkedin.com/in/nasroon-fareeha-300072245</a>
+<a href="https://linkedin.com/in/Nasroon Fareeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasroon fareeha" height="30" width="40" />www.linkedin.com/in/nasroon-fareeha-300072245</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
