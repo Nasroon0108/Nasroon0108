@@ -72,6 +72,8 @@ and collaborative environments.
 ## Contact Information
 - Email: nasroonmahi@gmail.com
 - GitHub: https://github.com/Nasroon0108
+- LinkedIn: https:www.linkedin.com/in/nasroon-fareeha
+
 
 ---
 
