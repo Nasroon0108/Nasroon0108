@@ -60,11 +60,6 @@ Computer Science (Hons) Graduate | Full-Stack Developer | Aspiring Software Engi
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasroon0108&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasroon0108&layout=compact&theme=default&hide_border=true)
-
 ---
 
 ### 📫 Connect With Me
@@ -72,3 +67,4 @@ Computer Science (Hons) Graduate | Full-Stack Developer | Aspiring Software Engi
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nasroonmahi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasroon-fareeha)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nasroon0108)
+
